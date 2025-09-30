@@ -29,7 +29,7 @@ vCPUs (Qty.) and Memory for each size
 
 | Size Name | vCPUs (Qty.) | Memory (GB) |
 | --- | --- | --- |
-| Standard_D2as_v42 | 2 | 8 |
+| Standard_D2as_v4 | 2 | 8 |
 | Standard_D4as_v4 | 4 | 16 |
 | Standard_D8as_v4 | 8 | 32 |
 | Standard_D16as_v4 | 16 | 64 |
